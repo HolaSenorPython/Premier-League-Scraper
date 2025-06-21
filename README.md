@@ -17,8 +17,8 @@ can enjoy!
 1. Clone this repo or download it
    - git clone https://github.com/HolaSenorPython/Premier-League-Scraper.git
 2. Create a venv (optional, but recommended)
-  - python -m venv venv
-  - source venv/bin/activate
+   - python -m venv venv
+   - source venv/bin/activate
 3. Install requirements.txt
-  - pip install -r requirements.txt
+   - pip install -r requirements.txt
 4. Run the program! 🚀🚀
