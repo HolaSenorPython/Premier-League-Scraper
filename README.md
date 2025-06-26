@@ -8,7 +8,7 @@ can enjoy!
 
 ## Notes from Creator
 - No GUI as of right now
-- Like said before currently supports Goalscorers and Assisters for now
+- Like said before currently supports Goalscorers and Assisters (for now)
 - Allows you to back out of program before requesting data with user input lol 😭🙏🏾
 
 ---
